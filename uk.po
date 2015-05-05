@@ -6523,7 +6523,7 @@ msgstr "Негайно!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
-msgstr ""
+msgstr "готово"
 
 msgid "{0}K"
 msgstr "{0} тис."
@@ -6672,7 +6672,7 @@ msgid "Choose Folder"
 msgstr "Оберіть теку"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Оберіть зображення"
 
 msgid "Update"
 msgstr "Оновлення"
@@ -6717,16 +6717,16 @@ msgid "Tutorials"
 msgstr "підручники"
 
 msgid "Hardware"
-msgstr "апаратні засоби"
+msgstr "Апаратні засоби"
 
 msgid "Player"
-msgstr ""
+msgstr "Гравець"
 
 msgid "you"
-msgstr ""
+msgstr "ви"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
+msgstr "Особлива подяка {} за придбання гри, а також за підтримку!"
 
 msgid "G3 Training"
-msgstr ""
+msgstr "Тренінг G3"
